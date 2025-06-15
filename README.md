@@ -9,7 +9,7 @@
 
 ## 🙋‍♀️ About Me
 
-- 🔹 Final-year Computer Science studdent specializing in CyberSecurity. 
+- 🔹 Final-year Computer Science student specializing in CyberSecurity. 
 - 🔹 Passionate about  NetworkSecurity, CyberSecurity and MachineLearning applications in the world of CyberSecurity.
 - 🔹 Working with **Python**, **HTML**, **CSS**, **JavaScript**. 
 - 🔹 Actively developing projects to enhance my portfolio and job readiness.
