@@ -22,7 +22,7 @@
   <a href="https://www.linkedin.com/in/sailumatta" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
- <a href="https://github.com/profile/SailudevikaMatta" target="_blank">
+ <a href="https://github.com/SailudevikaMatta" target="_blank">
     <img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://codolio.com/profile/DevikaMatta" target="_blank">
